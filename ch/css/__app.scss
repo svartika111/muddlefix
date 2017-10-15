@@ -1,0 +1,68 @@
+/*  VARIABLES  */
+
+$primary_font: 'Helvetica', Arial, sans-serif;
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+}
+
+a, 
+a:focus,
+a:active,
+a:hover{
+    text-decoration: underline;
+}
+
+html{
+    transition: all 0.3s linear;
+}
+
+body{
+    font-family: $primary-font;
+    font-weight: normal;
+    font-size: 16px/30px 
+}
+
+.__nav{
+    display: inline-flex;
+    position: fixed;
+    color: #ffffff;
+    background: linear-gradient(to right, #36d1dc, #5b86e5);
+    height: 50px;
+    width: 100%;
+
+    .__nav_container{
+        width: 80%;
+        height: inherit;
+        margin: 0 auto;
+
+        .__nav_content{
+            float: right;
+            height: inherit;
+            display: table;
+            width: 400px;
+
+            li{
+                letter-spacing: 1px;
+                text-align: center;
+                display: table-cell;
+                vertical-align: middle;
+                font-size: 14px;
+                
+                a{
+                    color: inherit;
+                    text-decoration: none;
+                }
+            }
+
+        }
+
+    }
+
+}
+

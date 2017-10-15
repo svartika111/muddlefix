@@ -1,0 +1,190 @@
+
+
+<html>
+<head>
+<title>The forms</title>
+
+
+<style>
+
+
+body
+{
+
+background-color:rgb(173,173,173);
+colour:black;
+
+
+}
+
+
+
+
+
+
+
+</style>
+
+
+
+
+
+
+
+
+
+
+</head>
+
+<body>
+
+
+<h1>SHARE YOUR PROBLEM WITH US WE ARE THE SAVIOURS!</h1>
+<form action="" method="">
+
+
+<label for="firstname">First Name:</label>
+<input type="text" id="firstname" name="">
+
+<label for="lastname">Last name:</label>
+<input type="text" id="lastname" name=""></br></br></br>
+<label for="fathername">Father's name:</label>
+<input type="text" id="fathername" name=""></br></br></br>
+<label for="mothername">Mother's name:</label>
+<input type="text" id="mothername" name=""></br></br></br>
+<br>
+<br>
+<br>
+
+Enter your date of birth:</br>
+<input type="date" name="day"></br>
+<br>
+<br>
+<br>
+
+
+
+Permanent Address:</br>
+<textarea rows="5" cols="20"></textarea></br>
+<br>
+<br>
+<br>
+Candidate's Phone Number:
+<input type="number"></br>
+<br>
+<br>
+
+
+
+
+Write something about yourself:</br>
+<textarea rows="5" cols="29"></textarea></br>
+
+<br>
+<br> 
+
+Select the committees you would like to join:</br>
+<input type="checkbox" name="">BPC</br>
+<input type="checkbox" name="">EDC</br>
+<input type="checkbox" name="">TPC</br>
+<input type="checkbox" name-"">DIG</br>
+<br>
+<br>
+<br>
+Select the sports you are interested in:</br>
+<input type="checkbox" name="">Basketball</br>
+<input type="checkbox" name="">Hockey</br>
+<input type="checkbox" name="">Football</br>
+<input type="checkbox" name="">Cricket</br>
+<br>
+<br>
+<br>
+
+
+Do you need a hostel:</br>
+Yes:
+<input type="radio" name="yesno" value=""></br>
+No:
+<input type="radio" name="yesno" value=""></br>
+
+<br>
+<br>
+<br>
+
+Select your branch:
+
+<select>
+<option value="ECE"> ECE</option>
+<option value="CSE"> CSE</option>
+<option value="EEE"> EEE</option>
+<option value="Biotech"> Biotech</option>
+<option value="Mech"> Mech</option>
+</select>
+
+
+&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
+Select the branch your project falls into:
+<select>
+<option value="ECE">ECE</Option>
+<option value="EEE">EEE</Option>
+<option value="CSE">CSE</Option>
+<option value="Biotech">Biotech</Option>
+<option value="Mechanical">Mechanical</Option>
+
+
+
+
+
+
+
+
+</select>
+
+
+
+
+
+
+
+
+
+<br>
+<br>
+<br>
+
+Select your year:
+<select>
+<option value="first">First</option>
+<option value="second">Second</option>
+<option value="third">Third</option>
+<option value="fourth">Fourth</option>
+</select>
+
+
+
+<br>
+<br>
+<br>
+
+<h3>You may click on the submit button if u have filled the form:</br></h3>
+<input type="submit" value="submit"></br></br></br>
+
+
+
+
+
+</form>
+
+
+
+
+
+
+
+
+</body>
+
+
+
+
+</html>

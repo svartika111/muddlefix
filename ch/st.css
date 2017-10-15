@@ -1,0 +1,106 @@
+@font-face{
+    font-family: "SourceSansPro-Regular";
+    src:url("SourceSansPro-Regular.ttf");
+}
+*{
+    margin: 0 auto;
+    box-sizing: border-box; 
+}
+
+.main{
+    padding-top: 100px;
+}
+
+body {
+    font-family: "SourceSansPro-Regular";
+    width: 100%;
+    height: 100%;
+    background: #abd7e5 no-repeat center fixed;
+    
+}
+.text{
+
+    font-family: "SourceSansPro-Regular";
+    text-align:left;
+    line-height: 1.8;
+
+     
+}
+.text p{
+    padding:5px; 
+}
+       
+ a:link, a:visited {
+      font-size: 14px;
+    color: #000000;
+    padding: 14px 25px;
+    
+    text-decoration: none;
+    display: inline-block;
+
+}
+
+
+a:hover {
+    color: #b2b2b2;
+}
+h1 {
+    font-size: 48px;
+    color: black;
+    font-family: "SourceSansPro-Regular";
+    text-align: center;
+    font-weight: normal;
+
+}
+
+
+.submain{
+ background-color:#d8eff6;
+   font-family: "SourceSansPro-Regular";
+ margin-left: 40px;
+ margin-right:40px;
+ margin-bottom:40px ;
+
+}
+
+.sub1
+{
+      font-family: "SourceSansPro-Regular";
+     width: 400px;
+     height: 400px;
+            background-color: #c1e5f1;
+            display: inline-block;
+             margin: 40px 1% 40px 2%;
+            text-align: center;
+           width: 45%;
+           float: left;
+           
+            
+        }
+ .image
+        {
+             position: relative;
+            width: 200px;
+            
+            height: 220px;
+            padding:10px;
+            padding-bottom: 0px;       
+        }
+ h2{ color:black;
+     text-align: center;
+     font-style: normal;
+     font-weight:bold;
+     font-size: 20px;
+       font-family: "SourceSansPro-Regular";
+
+}
+p{
+    color:#595959;
+     font-style: normal;
+     font-weight: normal;
+     font-size: 16px;
+       font-family: "SourceSansPro-Regular";
+}
+
+.__nav{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;position:fixed;color:#ffffff;background:#fff;height:100px;width:100%;z-index:9999;-webkit-transition:all 0.3s ease;-o-transition:all 0.3s ease;transition:all 0.3s ease}.__nav .__nav_container{width:80%;height:inherit;margin:0 auto}.__nav .__nav_container img{height:inherit;width:auto}.__nav .__nav_container .__nav_content{float:right;height:inherit;display:table;width:50%}.__nav .__nav_container .__nav_content li{letter-spacing:2px;text-align:center;display:table-cell;vertical-align:middle;font-size:14px;width:20%;margin:0 auto}.__nav .__nav_container .__nav_content li a{color:#000;text-decoration:none}
+      

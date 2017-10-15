@@ -1,0 +1,21 @@
+<html>
+
+<head>
+
+
+
+
+</head>
+
+<body>
+
+
+<p>This is my second page which provides you with all the relevant information</p>
+
+
+
+
+
+</body>
+
+</html>
